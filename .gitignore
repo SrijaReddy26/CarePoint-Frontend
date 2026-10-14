@@ -1,0 +1,12 @@
+node_modules/
+node_modules - Copy/
+dist/
+.env
+.env.*
+!.env.example
+
+index - Copy.html
+package - Copy.json
+package-lock - Copy.json
+vite.config - Copy.js
+src - Copy/
